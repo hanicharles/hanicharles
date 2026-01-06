@@ -18,7 +18,7 @@
 * 💼 LinkedIn: [linkedin.com/in/chalukya-nayaka-b-k-131b232aa](https://linkedin.com/in/chalukya-nayaka-b-k-131b232aa)
 * 🧑‍💻 GitHub: [github.com/hanicharles](https://github.com/hanicharles)
 * 📧 Email: **[chalukyanayaka2@gmail.com](mailto:chalukyanayaka2@gmail.com)**
-
+ 
 ---
 
 ## 🎓 Education
