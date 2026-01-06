@@ -1,17 +1,17 @@
-## 👋 Hi, I'm **Chalukya Nayaka B K**
+👋 Hi, I'm Chalukya Nayaka B K
 
-🎓 **M.Tech in Cybersecurity** @ REVA University
-💻 **Computer Science Engineer | Cybersecurity & AI Enthusiast**
+🎓 M.Tech in Cybersecurity @ REVA University
+💻 Computer Science Engineer | Cybersecurity & AI Enthusiast
 📍 Karnataka, India
 
-🔍 Passionate about **Cybersecurity, System Security, AI, and Real-World Problem Solving**
-🚀 Actively preparing for **internships & industry roles** in cybersecurity and related domains
+🔍 Passionate about Cybersecurity, System Security, AI, and Real-World Problem Solving
+🚀 Actively preparing for internships & industry roles in cybersecurity and related domains
 
 ---
 
 ## 🌐 Portfolio & Profiles
 
-* 🌍 Website: [chalukyanayakabk.netlify.app](https://chalukyanayakabk.netlify.app)
+* 🌍 Website: [chalukyanayakabk.netlify.app](https://chalukya-nayaka-bk.netlify.app)
 * 💼 LinkedIn: [linkedin.com/in/chalukya-nayaka-b-k-131b232aa](https://linkedin.com/in/chalukya-nayaka-b-k-131b232aa)
 * 🧑‍💻 GitHub: [github.com/hanicharles](https://github.com/hanicharles)
 * 📧 Email: **[chalukyanayaka2@gmail.com](mailto:chalukyanayaka2@gmail.com)**
