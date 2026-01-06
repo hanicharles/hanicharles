@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Chalukya Nayaka B K**
 
-🎓 **M.Tech in Computer Science (Cybersecurity)** @ REVA University
+🎓 **M.Tech in Cybersecurity** @ REVA University
 💻 **Computer Science Engineer | Cybersecurity & AI Enthusiast**
 📍 Karnataka, India
 
