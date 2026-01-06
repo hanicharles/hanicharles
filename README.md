@@ -7,6 +7,7 @@
 📍 Karnataka, India
 
 🔍 Passionate about Cybersecurity, System Security, AI, and Real-World Problem Solving
+
 🚀 Actively preparing for internships & industry roles in cybersecurity and related domains
 
 ---
