@@ -22,7 +22,7 @@
 
 **REVA University – College of Engineering**
 
-* **M.Tech in Computer Science** (2025 – 2027)
+* **M.Tech in Cybersecurity** (2025 – 2027)
 
 **REVA University – College of Engineering**
 
